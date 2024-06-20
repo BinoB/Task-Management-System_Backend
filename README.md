@@ -42,7 +42,7 @@ This is a simple Task Manager API built with Node.js, Express, and MongoDB. It i
 
 3. Create a `.env` file in the root directory and add the following environment variables:
     ```
-    PORT=3000
+    PORT=5000
     MONGO_URI=your_mongodb_uri
     JWT_SECRET=your_jwt_secret
     ```
