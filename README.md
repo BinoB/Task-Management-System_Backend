@@ -141,8 +141,6 @@ This is a simple Task Manager API built with Node.js, Express, and MongoDB. It i
 
 ```
 .
-├── config
-│   └── db.js           # MongoDB connection configuration
 ├── controllers
 │   ├── userController.js # Authentication logic
 │   └── taskController.js # Task logic
